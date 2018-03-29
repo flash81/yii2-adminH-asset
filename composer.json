@@ -2,7 +2,7 @@
     "name": "flash20/yii2-adminh-asset",
     "description": "Admin h后台 backend theme asset bundle for Yii 2.0 Framework",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","h后台","admin","theme","backend","asset","css","less"],
+    "keywords": ["yii2","extension","h+后台","admin","theme","backend","asset","css","less"],
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -13,9 +13,6 @@
     "require": {
         "yiisoft/yii2": "2.*",
         "yiisoft/yii2-bootstrap": "2.*",
-        "cebe/yii2-gravatar": "1.*",
-        "almasaeed2010/adminlte": "~2.0",
-        "rmrevin/yii2-fontawesome": "~2.9",
-        "dmstr/yii2-adminlte-asset": "2.0.x-dev"
+        "cebe/yii2-gravatar": "1.*"
     }
 }
