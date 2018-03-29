@@ -8,7 +8,7 @@
         {
             "name": "li yefeng",
             "email": "2684498887@qq.com"
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2": "2.*",
