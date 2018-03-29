@@ -17,10 +17,5 @@
         "almasaeed2010/adminlte": "~2.0",
         "rmrevin/yii2-fontawesome": "~2.9",
         "dmstr/yii2-adminlte-asset": "2.0.x-dev"
-    },
-    "autoload": {
-        "psr-4": {
-            "dmstr\\": ""
-        }
     }
 }
