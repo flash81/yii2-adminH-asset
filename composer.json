@@ -2,7 +2,7 @@
     "name": "flash20/yii2-adminh-asset",
     "description": "Admin h后台 backend theme asset bundle for Yii 2.0 Framework",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","H+","admin","theme","backend","asset","css","less"],
+    "keywords": ["yii2","extension","h后台","admin","theme","backend","asset","css","less"],
     "license": "BSD-3-Clause",
     "authors": [
         {
