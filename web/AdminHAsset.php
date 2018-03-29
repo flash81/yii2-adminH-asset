@@ -33,5 +33,5 @@ class AdminHAsset extends BaseAdminLteAsset
         'yii\bootstrap\BootstrapAsset',
     ];
 
-    public $jsOptions = ['position' => \yii\web\View::POS_HEAD];
+    public $jsOptions = ['position' => \yii\web\View::POS_END];
 }

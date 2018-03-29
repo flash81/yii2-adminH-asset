@@ -7,7 +7,7 @@ use yii\helpers\Html;
 use dmstr\widgets\Alert;
 use yii\widgets\Breadcrumbs;
 
-backend\assets\BackendAsset::register($this);
+flash20\web\AdminHAsset::register($this);
 
 ?>
 <?php $this->beginPage() ?>
@@ -21,7 +21,6 @@ backend\assets\BackendAsset::register($this);
 
     <meta name="renderer" content="webkit">
     <meta http-equiv="Cache-Control" content="no-siteapp" />
-    <title>后台管理框架 - 主页</title>
     <meta name="keywords" content="Y+,后台管理,Yii2 RBAC,H+后台主题,后台bootstrap框架,会员中心,后台HTML,响应式后台">
     <meta name="description" content="Y+是Yii2 + Bootstrap搭建的后台管理系统，集成用户中心模块和RBAC权限管理模块。模板使用H+基于Bootstrap3最新版本开发的扁平化主题。">
     <!--[if lt IE 9]>
