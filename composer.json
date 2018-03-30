@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev-master",
     "require": {
-        "mdmsoft/yii2-admin": "~2.x"
+        "mdmsoft/yii2-admin": "~2.8"
     },
     "autoload": {
         "psr-4": {
