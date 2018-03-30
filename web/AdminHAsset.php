@@ -27,11 +27,12 @@ class AdminHAsset extends BaseAdminLteAsset
         'js/hplus.min.js',
         'js/contabs.min.js',
         'js/plugins/pace/pace.min.js',
+        'js/common.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
     ];
 
-    public $jsOptions = ['position' => \yii\web\View::POS_END];
+    public $jsOptions = ['position' => \yii\web\View::POS_HEAD];
 }
