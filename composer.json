@@ -10,7 +10,7 @@
             "email": "2684498887@qq.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "mdmsoft/yii2-admin": "~2.8"
     },
