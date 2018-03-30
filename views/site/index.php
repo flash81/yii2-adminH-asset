@@ -4,7 +4,7 @@
 use yii\helpers\Url;
 
 $this->title = '后台管理';
-flash20\web\AdminHAsset::register($this);
+flash20\admin\web\AdminHAsset::register($this);
 ?>
 <div id="wrapper">
     <!--左侧导航开始-->

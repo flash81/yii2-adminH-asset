@@ -7,7 +7,7 @@ use yii\helpers\Html;
 use dmstr\widgets\Alert;
 use yii\widgets\Breadcrumbs;
 
-flash20\web\AdminHAsset::register($this);
+flash20\admin\web\AdminHAsset::register($this);
 
 ?>
 <?php $this->beginPage() ?>

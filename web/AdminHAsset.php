@@ -1,5 +1,5 @@
 <?php
-namespace flash20\web;
+namespace flash20\admin\web;
 
 use yii\base\Exception;
 use yii\web\AssetBundle as BaseAdminLteAsset;
