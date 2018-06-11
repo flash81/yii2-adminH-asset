@@ -10,7 +10,7 @@ use yii\web\AssetBundle as BaseAdminLteAsset;
  */
 class AdminHAsset extends BaseAdminLteAsset
 {
-    public $sourcePath = '@vendor/flash20/yii2-adminH-asset/web/static';
+    public $sourcePath = '@vendor/flash20/yii2-adminh-asset/web/static';
     public $css = [
         'css/bootstrap.min14ed.css',
         'css/font-awesome.min93e3.css',
